@@ -69,7 +69,7 @@ High discounting in this category reduced profit margins substantially, particul
 Office Supplies accounted for the largest quantity of units sold, driving volume-based revenue but not necessarily the highest profits.  
 Technology products, though fewer in quantity, generated higher profits per unit sold.
 
-### Recommendations
+## Recommendations
 
 1. **Replicate West’s Sales Model**  
    Leverage West region’s sales and discounting strategies in underperforming regions, particularly East and Central.
