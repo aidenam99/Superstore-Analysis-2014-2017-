@@ -29,7 +29,7 @@ Below are the info of each column of the dataset used for the data visualization
 
 # Superstore Performance Evaluation
 
-In order to evaluate store performance, we focused on the following key metrics:
+In order to evaluate store performance, I focused on the following key metrics:
 
 - **Sales**: Total revenue generated from all orders.  
 - **Profit**: Total profit after accounting for discounts and costs.  
