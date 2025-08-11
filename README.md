@@ -1,5 +1,4 @@
 # Superstore Analysis (2014-2017)
-Business insights on a superstore giant visualized with Tableau
 The goal of this project is to look into a sample dataset of a superstore and tell a story through data visualization for the store managers to create actionable insights.
 ## Dataset Structure
 Below are the info of each column of the dataset used for the data visualization.
