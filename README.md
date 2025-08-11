@@ -35,7 +35,7 @@ In order to evaluate store performance, I focused on the following key metrics:
 - **Profit Ratio**: Profit as a percentage of sales.  
 - **Profit per Order**: Average profit generated per individual order.  
 - **Sales per Customer**: Average total sales generated per unique customer.  
-- **Discount (Amount)**: Total monetary value of discounts given, not percentages.  
+- **Discount**: Total monetary value of discounts given.  
 - **Quantity**: Total units of products sold.
 
 ### Sales
