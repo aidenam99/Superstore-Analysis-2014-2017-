@@ -89,4 +89,4 @@ Technology products, though fewer in quantity, generated higher profits per unit
 # Dashboard
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/aiden.awal.maulana/viz/SuperstoreDashboard_17548856643620/ExecutiveDashboard#1).
 This dashboard enables users to filter by Region, State, Order Date, and Profit Ratio. The dashboard focuses on the sales trend of product category and customer segment from 2014-2017 for Executives.
-[![Tableau Dashboard](images/Superstore_tableau_dashboard_thumbnail.png)](https://public.tableau.com/app/profile/aiden.awal.maulana/viz/SuperstoreDashboard_17548856643620/ExecutiveDashboard#1)
+[![Tableau Dashboard](Superstore_tableau_dashboard_thumbnail.png)](https://public.tableau.com/app/profile/aiden.awal.maulana/viz/SuperstoreDashboard_17548856643620/ExecutiveDashboard#1)
